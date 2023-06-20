@@ -229,6 +229,7 @@ GetConsoleOutputCP
 GetConsoleScreenBufferInfo
 GetConsoleTitleA
 GetConsoleTitleW
+GetConsoleWindow
 GetCurrencyFormatA
 GetCurrencyFormatW
 GetCurrentDirectoryA
